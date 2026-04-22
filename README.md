@@ -26,6 +26,10 @@ uv will install dependencies automatically on first run.
 
 The agent will work through each question in `math_questions.md` and print the ReAct trace (Reason / Act / Result) for each one.
 
+## Demo
+
+[Watch the demo video](https://youtu.be/P3Z6ysbifqA)
+
 ## Files
 
 - `agent.py` - the ReAct agent (this is the file you'll modify)
